@@ -1,0 +1,16 @@
+This is the README file for SSFTPServer
+
+Authors: 
+holmat@msoe.edu (Andrew Holm)
+lengyelj@msoe.edu (Jason Lengyel)
+
+Scope:
+The scope of this project is to provide a super-simple FTP server for CE4960 - Networking Protocols, Lab 4.
+
+Contents:
+  1 - The Client
+  2 - The Server
+
+1 - The Client
+
+2 - The Server
